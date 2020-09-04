@@ -2,7 +2,7 @@
 
 ### An aspiring developer learning to develop visually appealing and functional web applications.
 
-## 💻 Developer toolbox under construction 🧰
+## 💻 Developer toolbox assembly in progress 🧰
 
 - <s>HTML</s> ✔️ 
 - <s>CSS</s> ✔️
