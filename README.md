@@ -71,9 +71,9 @@ HTML                     4 repos             ███████████�
 JavaScript               1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
+
+Coding Stats by [anmol098] (https://github.com/anmol098/waka-readme-stats)
+Most used Languages by [anuraghazra] (https://github.com/anuraghazra/github-readme-stats)
 
 
