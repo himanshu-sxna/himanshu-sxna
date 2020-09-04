@@ -1,6 +1,6 @@
 # 👋 Hello, I am Himanshu
 
-### An aspiring developer learning to develop visually appealing and functional web applications.
+### An aspiring developer learning to create visually appealing and functional web applications.
 
 ## 💻 Developer toolbox assembly in progress 🧰
 
