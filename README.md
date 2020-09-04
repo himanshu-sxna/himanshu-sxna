@@ -1,8 +1,8 @@
 # 👋 Hello, I am Himanshu
 
-#### An aspiring developer learning to develop visually appealing and functional web applications.
+### An aspiring developer learning to develop visually appealing and functional web applications.
 
-### My 2020 Roadmap to fill my developer toolbox 💻 🧰
+## My 2020 Roadmap to fill my developer toolbox 💻 🧰
 
 - <s>HTML</s> ✔️ 
 - <s>CSS</s> ✔️
