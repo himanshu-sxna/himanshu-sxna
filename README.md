@@ -1,8 +1,26 @@
-### Hello, I am Himanshu
+## 👋 Hello, I am Himanshu
 
-I am an aspiring developer learning to develop visually appealing and functional web apps
+I am an aspiring developer learning to develop visually appealing and functional web applications
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sxna)](https://github.com/anuraghazra/github-readme-stats)
+### My 2020 Roadmap to fill my developer toolbox 💻 🧰
+
+- <s>HTML</s> ✔️ 
+- <s>CSS</s> ✔️
+  - <s>Bootstrap</s> ✔️
+  - Material UI 🛠️
+  - Semantic UI 🛠️
+ - <s>Javascript</s> ✔️
+ - APIs 🛠️
+ - React 🚧
+ - Node.js 🚧
+    - Express 
+ - Express 🚧
+ - MySQL 🚧
+ - MongoDB 🚧
+ 
+ 
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sxna)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4531%20lines%20of%20code-blue)
