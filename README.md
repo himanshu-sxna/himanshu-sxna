@@ -1,6 +1,6 @@
-## 👋 Hello, I am Himanshu
+# 👋 Hello, I am Himanshu
 
-An aspiring developer learning to develop visually appealing and functional web applications.
+#### An aspiring developer learning to develop visually appealing and functional web applications.
 
 ### My 2020 Roadmap to fill my developer toolbox 💻 🧰
 
