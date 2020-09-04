@@ -2,7 +2,7 @@
 
 ### An aspiring developer learning to develop visually appealing and functional web applications.
 
-## My 2020 Roadmap to fill my developer toolbox 💻 🧰
+## 💻 Developer toolbox under construction 🧰
 
 - <s>HTML</s> ✔️ 
 - <s>CSS</s> ✔️
@@ -11,11 +11,13 @@
   - Semantic UI 🛠️
  - <s>Javascript</s> ✔️
  - APIs 🛠️
- - React 🚧
- - Node.js 🚧
+ - React 🏗️
+ - Node.js 🏗️
     - Express 
- - MySQL 🚧
- - MongoDB 🚧
+ - MySQL 🏗️
+ - MongoDB 🏗️
+ - Python ✔️
+    - Django/Flask 🏗️
  
  
  ## My Coding Stats 📈📉
