@@ -25,7 +25,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sxna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6748%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7241%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,16 +56,15 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-JavaScript               5 hrs 33 mins       █████████████░░░░░░░░░░░░   54.95% 
-HTML                     3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   30.96% 
-CSS                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
+HTML                     1 hr 27 mins        ███████████░░░░░░░░░░░░░░   45.66% 
+JavaScript               1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.83% 
+CSS                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.51%
 
 🔥 Editors: 
-VS Code                  10 hrs 6 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 6 mins       █████████████████████████   100.0%
+Windows                  3 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
