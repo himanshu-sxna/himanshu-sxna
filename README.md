@@ -26,7 +26,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sxna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43224%20lines%20of%20code-bluestyle=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43224%20lines%20of%20code-blue?style=for-the-badge)
 
 <!--END_SECTION:waka-->
 
