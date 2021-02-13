@@ -1,4 +1,4 @@
-# 👋 Hello, I am Himanshu ###[hee-maan-shoo]
+# 👋 Hello, I am Himanshu <span>[hee-maan-shoo]</span>
 
 ### Full Stack Web Developer working with JavaScript to create visually appealing and functional web applications.
 
