@@ -31,5 +31,5 @@
 <!--END_SECTION:waka-->
 
 ## Get in touch
-- <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> [Himanshu Saxena](https://www.linkedin.com/in/himanshu-sxna/)
-- 📧 <mailto:contact@hellohimanshu.com>
+- <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/> [Himanshu Saxena](https://www.linkedin.com/in/himanshu-sxna/)
+- 📧 [contact@hellohimanshu.com](mailto:contact@hellohimanshu.com)
