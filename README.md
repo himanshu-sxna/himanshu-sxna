@@ -81,5 +81,5 @@ HTML                     6 repos             ██████░░░░░�
 <!--END_SECTION:waka-->
 
 ## Get in touch
-- <a href="https://www.linkedin.com/in/himanshu-sxna/"><img src="https://img.shields.io/badge/Himanshu%20Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-- <a href="mailto:contact@hellohimanshu.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7-contact%40hellohimanshu.com-blue?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/himanshu-sxna/"><img src="https://img.shields.io/badge/Himanshu%20Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<a href="mailto:contact@hellohimanshu.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7-contact%40hellohimanshu.com-blue?style=for-the-badge"/></a>  
