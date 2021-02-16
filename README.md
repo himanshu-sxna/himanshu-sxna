@@ -26,27 +26,27 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sxna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43224%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43166%20lines%20of%20code-blue)
 
+**🐱 My Github Data** 
+
+> 🏆 127 Contributions in the Year 2021
+ > 
+> 📦 84.1 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    57 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
-🌆 Daytime    63 commits     ████████░░░░░░░░░░░░░░░░░   33.16% 
-🌃 Evening    67 commits     ████████░░░░░░░░░░░░░░░░░   35.26% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-Tuesday      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
-Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
-Friday       59 commits     ███████░░░░░░░░░░░░░░░░░░   31.05% 
-Saturday     72 commits     █████████░░░░░░░░░░░░░░░░   37.89% 
-Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
+🌞 Morning    59 commits     ███████░░░░░░░░░░░░░░░░░░   30.73% 
+🌆 Daytime    63 commits     ████████░░░░░░░░░░░░░░░░░   32.81% 
+🌃 Evening    67 commits     ████████░░░░░░░░░░░░░░░░░   34.9% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 ```
 
@@ -54,8 +54,6 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Australia/Adelaide
-
 ```
 
 
